@@ -1,0 +1,6 @@
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\bin\Debug\Exam3_Task1.exe.config
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\bin\Debug\Exam3_Task1.exe
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\bin\Debug\Exam3_Task1.pdb
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\obj\Debug\Exam3_Task1.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\obj\Debug\Exam3_Task1.exe
+D:\JAYASREE\c#programs\Exam3_Task1\Exam3_Task1\obj\Debug\Exam3_Task1.pdb
